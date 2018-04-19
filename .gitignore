@@ -6,3 +6,4 @@ tmp/
 temp/
 src/**/*.js
 src/**/*.js.map
+ormconfig.js
